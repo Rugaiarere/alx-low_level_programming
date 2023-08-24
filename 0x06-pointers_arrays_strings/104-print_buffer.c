@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stddio.h>
 /**
  * string_toupper - change lowercase letters to uppercase.
  * @s: analized string.
